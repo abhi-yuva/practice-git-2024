@@ -1,1 +1,2 @@
 user b done these changes and pushed data
+this is to show differenct changes in working tree and staging area
