@@ -1,1 +1,2 @@
 user b done these changes and pushed data
+This is to show how amend works
