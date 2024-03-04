@@ -3,3 +3,4 @@ This is to show how amend works
 adding one more line in main branch
 about merging
 data from feature branch
+data from main branch
