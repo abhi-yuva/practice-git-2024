@@ -2,4 +2,5 @@ user b done these changes and pushed data
 This is to show how amend works
 adding one more line in main branch
 about merging
-data from main branch
+data from feature branch
+This line is from Base Branch
