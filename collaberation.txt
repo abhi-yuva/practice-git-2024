@@ -4,3 +4,4 @@ adding one more line in main branch
 about merging
 data from feature branch
 This line is from Base Branch
+testing email notification
